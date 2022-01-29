@@ -18,5 +18,5 @@ User story 3 - as a business owner, I want to transfer accountability for updati
 https://codesandbox.io/s/dazzling-nash-q7hhn
 
 # Wireframe
-https://app.diagrams.net/?title=Copy%20of%20wireframeProject3.html&client=1
+
 
