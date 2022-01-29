@@ -5,7 +5,7 @@ Name: Lawrence Eadie
 
 Overview: This repository is going to add/delete Employee Contact Information for customers in a simulated real world application
 
-Technologies used: HTML, CSS, React
+Technologies used: Javasript, CSS, React
 
 Ideas for future improvement: Change to controlled components, allow users to upload attachments rather than enter one by one, and use reactstrap to expand to additional data collection
 
